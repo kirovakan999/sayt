@@ -8,7 +8,9 @@ center{
 .block{
     border: radius 90px;;
     background-color: bisque;
-    margin: 20px;
-    border: 20px;
-    padding: 40px;
+    margin: 400px;
+    border: 200px;
+    padding: 500px;
+    width: 200px;
+    
 }
