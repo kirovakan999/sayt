@@ -5,14 +5,7 @@ center{
     padding: 40px;
     color: #808080;
 }
-.block{
-    border: radius 90px;;
-    background-color: bisque;
-    margin: 400px;
-    border: 200px;
-    padding: 500px;
-    width: 200px;
-}
+
 .centered-box{
     margin: 0 auto;
     width: 50%;
