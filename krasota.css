@@ -12,5 +12,10 @@ center{
     border: 200px;
     padding: 500px;
     width: 200px;
-    
+}
+.centered-box{
+    margin: 0 auto;
+    width: 50%;
+    border-radius: 10px;
+    background-color: bisque;
 }
