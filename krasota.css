@@ -8,7 +8,19 @@ center{
 
 .centered-box{
     margin: 0 auto;
-    width: 50%;
+    width: 75%;
     border-radius: 10px;
     background-color: bisque;
+}
+.center{
+    color: rgb(0, 0, 0);
+}
+.I{
+    width: auto;
+    height: auto;
+}
+
+.ti{
+    width: auto;
+    height: auto;
 }
