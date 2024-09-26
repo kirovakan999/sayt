@@ -8,6 +8,9 @@ CSS
     width: 200px;
 }
 
+.opacity: .9; (прозрачность)
+
+
 HTML
 <div class="floresta">
 <img src="https://raw.githubusercontent.com/interaminense/starry-sky/master/src/img/bgTree.png" alt="" />
