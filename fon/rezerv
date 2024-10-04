@@ -8,10 +8,13 @@ CSS
     width: 200px;
 }
 
-.opacity: .9; (прозрачность)
+.opacity: .9; прозрачность
 
 
 HTML
 <div class="floresta">
 <img src="https://raw.githubusercontent.com/interaminense/starry-sky/master/src/img/bgTree.png" alt="" />
 </div>
+
+
+<div class="centered-box"><center class="center"><h1>слушай а что нам вообще нравится?</h1></center>

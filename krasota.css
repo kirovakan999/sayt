@@ -10,7 +10,8 @@ center{
     margin: 0 auto;
     width: 75%;
     border-radius: 10px;
-    background-color: bisque;
+    background-color: rgba(255, 228, 196, 0.562);
+    
 }
 .center{
     color: rgb(0, 0, 0);
@@ -18,9 +19,63 @@ center{
 .I{
     width: auto;
     height: auto;
+    color: #ffffff;
 }
 
 .ti{
     width: auto;
     height: auto;
+    color: #ffffff;
 }
+.mi{
+    width: auto;
+    height: auto;
+    color: #ffffff;
+}
+body {
+    font-family: 'Georgia', serif; /* Мягкий шрифт с засечками */
+    color: #333; /* Серый цвет текста */
+    background-color: #f5f5f5; /* Мягкий светло-серый фон */
+  }
+  
+  h1, h2 {
+    text-align: center;
+    color: #663300; /* Теплый коричневый для заголовков */
+  }
+  
+  .noite {
+    background-color: #f0f0f0; /* Светло-серый фон для блока */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+  }
+  /* ... ваш существующий CSS ... */
+
+  body {
+    font-family: 'Georgia', serif;
+    color: #333;
+    background-color: #f5f5f5; /* Светло-серый фон */
+   }
+   
+   .noite {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+   }
+   
+   .video-container {
+    /* ... ваш существующий код ... */
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2); /* Тень */
+   }
+   
+   iframe {
+    /* ... ваш существующий код ... */
+    transition: all 0.3s ease; /* Добавляем плавную анимацию */
+   }
+   
+   iframe:hover {
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.3); /* Увеличиваем тень при наведении */
+   }
