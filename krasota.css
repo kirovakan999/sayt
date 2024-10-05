@@ -16,6 +16,16 @@ center{
 .center{
     color: rgb(0, 0, 0);
 }
+
+.video-container {
+    text-align: center;
+}
+
+.vid-col {
+    display: inline-block;
+    margin: 0 10px;
+}
+
 .I{
     width: auto;
     height: auto;
@@ -43,14 +53,6 @@ body {
     color: #663300; /* Теплый коричневый для заголовков */
   }
   
-  .noite {
-    background-color: #f0f0f0; /* Светло-серый фон для блока */
-    padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
-    margin-bottom: 20px;
-  }
-  /* ... ваш существующий CSS ... */
 
   body {
     font-family: 'Georgia', serif;
@@ -66,11 +68,7 @@ body {
     margin-bottom: 20px;
    }
    
-   .video-container {
-    /* ... ваш существующий код ... */
-    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2); /* Тень */
-   }
-   
+  
    iframe {
     /* ... ваш существующий код ... */
     transition: all 0.3s ease; /* Добавляем плавную анимацию */
