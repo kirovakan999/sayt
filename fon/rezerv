@@ -18,3 +18,10 @@ HTML
 
 
 <div class="centered-box"><center class="center"><h1>слушай а что нам вообще нравится?</h1></center>
+
+  }
+  
+  h1, h2 {
+    text-align: center;
+    color: #663300; /* Теплый коричневый для заголовков */
+  }
