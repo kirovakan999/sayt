@@ -1,3 +1,16 @@
+ }
+  
+  h1, h2 {
+    text-align: center;
+    color: #663300; /* Теплый коричневый для заголовков */
+  }
+
+
+
+
+
+
+
 <!DOCTYPE html> 
 <html lang="en"> 
 <head> 
